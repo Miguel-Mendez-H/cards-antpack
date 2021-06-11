@@ -1,0 +1,54 @@
+.mat-toolbar{
+    margin-bottom: 10px;
+
+}
+
+.mat-card{
+    padding: 0;
+}
+.mat-elevation-z4{
+    margin-left: 15px;
+    margin-right: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:cornflowerblue;
+}
+
+.mat-card-content{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: aliceblue;
+    overflow-wrap: break-word;
+}
+
+.gravatar{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.nameStyle{
+    font-weight: bold;
+    padding: 5px;
+}
+
+.emailStyle{
+    font-weight: bold;
+    padding: 5px;
+}
+
+.cityStyles{
+    font-weight: bold;
+    padding: 5px;
+}
+
+.companyStyles{
+    font-weight: bold;
+    padding: 5px;
+}
+
+.span{
+    overflow-wrap: break-word;
+}
